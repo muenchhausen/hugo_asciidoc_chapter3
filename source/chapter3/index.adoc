@@ -1,8 +1,8 @@
 ---
-title: "Chapter Four"
-weight: 0
+title: "Chapter three"
+weight: 3
 ---
 
-== Chapter FOUR
+== Chapter THREE
 
 include::conclusion.adoc[]
